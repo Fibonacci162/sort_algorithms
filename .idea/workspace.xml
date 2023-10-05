@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9914e289-2133-440d-b64e-360960dc4645" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/main/BlackBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/main/RacePanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/main/SortPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/main/WrappedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/painter/CHoopP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/painter/ColorBars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/painter/ColorCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/painter/ColorPainter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/painter/DefaultPainter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/painter/DefaultTheme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/painter/DiametersP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/painter/Disparity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/painter/DisparityColorCircleP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/painter/HyperSpiralP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/painter/Painter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/painter/PulseP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/painter/ScatterDots.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/painter/SimpleBarPainter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/painter/SpiralP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/painter/Theme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/painter/ThemeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/painter/WhiteDotCircleP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/shuffler/AlmostSorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/shuffler/Bitonic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/shuffler/Descending.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/shuffler/PartitionedRandomPermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/shuffler/RandomMaxHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/shuffler/RandomMinHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/shuffler/RandomNormal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/shuffler/RandomNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/shuffler/RandomPermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/shuffler/Shuffler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/shuffler/ShufflerFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/sorter/ALSorter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/sorter/BitonicS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/sorter/BlockS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/sorter/BubbleS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/sorter/BucketS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/sorter/CellS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/sorter/CocktailS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/sorter/CombS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/sorter/CountingS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/sorter/DSelectionS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/sorter/ExchangeS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/sorter/GnomeS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/sorter/GravityS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/sorter/HeapS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/sorter/InsertionMergeS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/sorter/InsertionS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/sorter/MergeS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/sorter/OOPMS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/sorter/OddEvenS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/sorter/PancakeS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/sorter/QuickS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/sorter/RadixMSDS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/sorter/RadixS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/sorter/STDS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/sorter/SelectionS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/sorter/ShellS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/sorter/ShellSTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/sorter/SlowS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/sorter/Sorter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/sorter/SorterFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/sorter/StoogeS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/sorter/TimS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/sorter/WeaveS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/sorter/WeavedS.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GlXkVDgJjlmORd8tKu5Q06oXH6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Marek/Desktop/Awww/stm8-sdcc-examples-master/adc/adc.o&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="GridBagLayoutExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GridBagLayoutExample" />
+      <module name="sort_algorithms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.main.Main" />
+      <module name="sort_algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RacePanel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.RacePanel" />
+      <module name="sort_algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="sort_algorithms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main.SortPanel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.SortPanel" />
+      <module name="sort_algorithms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.main.Main" />
+        <item itemvalue="Application.RacePanel" />
+        <item itemvalue="Application.GridBagLayoutExample" />
+        <item itemvalue="Application.main.SortPanel" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9914e289-2133-440d-b64e-360960dc4645" name="Changes" comment="" />
+      <created>1666964291590</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666964291590</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
